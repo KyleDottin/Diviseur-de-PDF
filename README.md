@@ -46,4 +46,5 @@ Prenons l’exemple de **[Stirling-PDF](https://github.com/Stirling-Tools/Stirli
   py -m pip install PyPDF2
 
 ### 2. Comment activer le clic droit
-Vous avez uniquement a exécuter le .reg et la modification de votre éditeur de registre se fera seul.  
+- Modifier le chemin d'accès vers le code python dans le .reg
+- Exécuter le .reg. 
